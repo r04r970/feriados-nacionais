@@ -104,7 +104,7 @@ export default function SelectUFSearch() {
       .catch(err => console.error("Erro ao buscar:", err));
 
       // Abrir a URL em uma nova aba
-      window.open(url, '_blank');
+      //window.open(url, '_blank');
   };
 
 
